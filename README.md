@@ -6,7 +6,26 @@ Versions:
 - pandas 1.5.3
 - numpy 1.26.3
 - scipy 1.11.4
+- matplotlib 3.8.2
 
+<hr>
+
+Technologies:
+<ul>
+  <li>Python</li>
+</ul>
+
+
+<hr>
+
+Topics:
+<ol><li>Data Mining Fundamentals</li>
+<li>Data Collection</li>
+<li>Data Visualization</li>
+<li>Data Mining Algorithms</li>
+<li>Machine Learning</li>
+<li>Deep Learning</li>
+<li>Reinforcement Learning</li></ol>
 <hr>
 <b>Extract Time Series Properties of Glucose Levels in Artificial Pancreas:</b>
 <br>
